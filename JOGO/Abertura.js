@@ -1,0 +1,3 @@
+function Abertura(){
+    background(telaAbertura);
+}
